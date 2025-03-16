@@ -38,7 +38,7 @@ python main.py --epochs {# epoch} --learning_rate {learning rate} ...
 
 Our model achieves the following performance on the baseline models.
 
-<img src = "https://github.com/PREDR/blob/main/figs/result.png" width="80%">
+<img src = "https://github.com/jiseongpark/PREDR/blob/main/img/result.png" width="80%">
 
 As the figure shows, our method significantly improves the existing methods with various criteria.
 
